@@ -39,9 +39,4 @@ SELECT * FROM employees;
 --added by Abhishek
 
 -- Drop Table (Optional)
-
-
 -- DROP TABLE employees;
----new project code
-
-create table TDA (Name Text)
